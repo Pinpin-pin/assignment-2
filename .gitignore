@@ -1,0 +1,13 @@
+# Compiled output
+bin/
+*.class
+
+# Editor / tooling
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Submission artifacts
+*.zip
